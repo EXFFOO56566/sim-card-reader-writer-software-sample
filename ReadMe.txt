@@ -2,7 +2,6 @@
        MICROSOFT FOUNDATION CLASS LIBRARY : SLE4432_4442
 ========================================================================
 
-
 AppWizard has created this SLE4432_4442 application for you.  This application
 not only demonstrates the basics of using the Microsoft Foundation classes
 but is also a starting point for writing your application.
