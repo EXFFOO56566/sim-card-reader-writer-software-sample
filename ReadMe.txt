@@ -69,7 +69,7 @@ Resource.h
     This is the standard header file, which defines new resource IDs.
     Microsoft Visual C++ reads and updates this file.
 
-//////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////
 Other notes:
 
 AppWizard uses "TODO:" to indicate parts of the source code you
